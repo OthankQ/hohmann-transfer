@@ -60,7 +60,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 25px;
+    gap: 28px;
 }
 
 .inner-col-2, .inner-col-3 {
@@ -79,11 +79,11 @@
 }
 
 .inner-col-1 .button {
-    transform: translate(-35px, 15px);
+    transform: translate(-36px, 8px);
 }
 
 .inner-col-4 .button {
-    transform: translate(35px, 5px);
+    transform: translate(36px, 8px);
 }
 
 
